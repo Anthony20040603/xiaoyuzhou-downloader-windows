@@ -1,0 +1,57 @@
+{
+  "rights": "Recordings donated to the public domain by LibriVox: https://librivox.org/pages/public-domain/",
+  "tests": [
+    {
+      "title": "Abou Ben Adhem",
+      "url": "https://www.archive.org/download/short_poetry_001_librivox/abou_hunt_py_64kb.mp3",
+      "bytes": 872576,
+      "sha256": "ad060a5cbd1ea90024967af226f6bc8e5d0d9905660a5a506720604f13a1d759",
+      "path": "测试音频\\Short Poetry Collection 001 by Various\\unknown\\unknown_Abou Ben Adhem_2573de4c8e.mp3",
+      "duration_seconds": 108.93,
+      "duplicate_check": "已存在"
+    },
+    {
+      "title": "Annabel Lee",
+      "url": "https://www.archive.org/download/shortpoetry_002_librivox/annabel_lee_eap_jc_64kb.mp3",
+      "bytes": 970419,
+      "sha256": "57737b3cc800c7b8032e13db0176fc615f9d76af0af4395f6b6c13b153b8b35b",
+      "path": "测试音频\\Short Poetry Collection 002 by Various\\unknown\\unknown_Annabel Lee_f8bb6ac889.mp3",
+      "duration_seconds": 121.21,
+      "duplicate_check": "已存在"
+    },
+    {
+      "title": "Dora",
+      "url": "https://www.archive.org/download/shortpoetry_002_librivox/dora_teb_kas_64kb.mp3",
+      "bytes": 781919,
+      "sha256": "e2332c92e4089de3d086e23e97c45d61e98d332df06d4b6dc4389009dbdcb345",
+      "path": "测试音频\\Short Poetry Collection 002 by Various\\unknown\\unknown_Dora_4931a7f951.mp3",
+      "duration_seconds": 97.65,
+      "duplicate_check": "已存在"
+    },
+    {
+      "title": "From Lines Composed a Few Miles Above Tintern Abbey",
+      "url": "https://www.archive.org/download/shortpoetry_002_librivox/tinternabbey_ww_wcd_64kb.mp3",
+      "bytes": 670944,
+      "sha256": "b89b6e247727f89a257fcf7978538e894140c5ff69a605d59cb36e1db4a6aa20",
+      "path": "测试音频\\Short Poetry Collection 002 by Various\\unknown\\unknown_From Lines Composed a Few Miles Above Tintern Abbey_abfabff1d8.mp3",
+      "duration_seconds": 83.73,
+      "duplicate_check": "已存在"
+    }
+  ],
+  "rss_method": "Live RSS fetched successfully, saved snapshots used after intermittent server errors. Supplied test XML contains only the selected classical poems.",
+  "gui": "Final packaged EXE launched on Windows 11, RSS import and download buttons tested; 5 episodes completed with zero failures. Package retains four selected classical poems.",
+  "resume_tests": [
+    {
+      "endpoint": "range.mp3",
+      "paused": "已暂停",
+      "resumed": "完成",
+      "duplicate": "已存在"
+    },
+    {
+      "endpoint": "no-range.mp3",
+      "paused": "已暂停",
+      "resumed": "完成",
+      "duplicate": "已存在"
+    }
+  ]
+}
